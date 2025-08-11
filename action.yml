@@ -15,5 +15,5 @@ inputs:
     description: 'Simple or Detailed'
     default: 'Detailed'
 runs:
-  using: 'node20'
+  using: 'node22'
   main: 'dist/index.js'
